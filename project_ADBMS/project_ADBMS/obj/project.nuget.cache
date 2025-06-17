@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "loHWB6EMUlE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\project_ADBMS\\project_ADBMS\\project_ADBMS.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.6\\system.configuration.configurationmanager.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.data.oledb\\9.0.6\\system.data.oledb.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.6\\system.diagnostics.eventlog.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.6\\system.diagnostics.performancecounter.9.0.6.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
